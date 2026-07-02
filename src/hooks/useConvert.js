@@ -1,6 +1,6 @@
 import {useState, useEffect} from 'react'
 
-const accessKey = "ed488ee80e1d8fc480ff84137f95ad96"
+const accessKey = import.meta.env.VITE_ACCESS_KEY
 const baseURL = "https://api.exchangeratesapi.io/v1"
 
 function useConvert() {
