@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const access_key = import.meta.env.VITE_ACCESS_KEY
+const accessKey = import.meta.env.VITE_ACCESS_KEY
 const baseURL = "https://api.exchangeratesapi.io/v1"
 
 function useSymbols() {
