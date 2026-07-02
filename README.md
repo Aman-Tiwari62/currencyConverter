@@ -73,24 +73,12 @@ npm install
 VITE_ACCESS_KEY=your_api_key
 ```
 
-> Replace `your_api_key` with your Exchange Rates API key.
+> Replace `your_api_key` with your Exchange Rates API key. Visit https://exchangeratesapi.io/ to get the api key.
 
 ### 5. Run the development server
 
 ```bash
 npm run dev
-```
-
----
-
-## 📸 Screenshot
-
-_Add a screenshot of your application here._
-
-Example:
-
-```
-screenshots/home.png
 ```
 
 ---
@@ -126,8 +114,3 @@ screenshots/home.png
 - GitHub: https://github.com/your-github-username
 - LinkedIn: https://www.linkedin.com/in/your-linkedin/
 
----
-
-## 📄 License
-
-This project is open source and available under the **MIT License**.
