@@ -111,6 +111,6 @@ npm run dev
 
 **Aman Tiwari**
 
-- GitHub: https://github.com/your-github-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/
+- GitHub: https://github.com/Aman-Tiwari62/
+- LinkedIn: https://www.linkedin.com/in/amantiwari83/
 
